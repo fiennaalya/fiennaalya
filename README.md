@@ -26,7 +26,7 @@ I'm an enthusiast in software engineering and technology with a solid educationa
 - 🔭 Actively developing my programming skills and looking for a job
 - 📫 How to reach me: **shalfienna@gmail.com**
 
-### Programming Language
+### Programming Languages
 <p align="center">Here are some programming language I've learned and used</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
