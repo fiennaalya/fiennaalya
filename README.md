@@ -57,8 +57,13 @@ I'm an enthusiast in software engineering and technology with a solid educationa
 
 ### Github Stats
 
-<!-- Your GitHub Stats -->
-![Fiennaalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiennaalya&show_icons=true&count_private=true)
+<div style="display: flex;">
+  <!-- Your GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fiennaalya&show_icons=true&count_private=true" alt="Fiennaalya's GitHub Stats" style="flex: 1; margin-right: 20px;">
 
-![Fiennaalya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiennaalya&layout=compact&exclude_repo=repo1,repo2&langs_count=8)
+  <!-- Your GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiennaalya&layout=compact&exclude_repo=repo1,repo2&langs_count=8" alt="Fiennaalya's Most Used Languages" style="flex: 1;">
+</div>
+
+
 
